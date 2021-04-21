@@ -25,3 +25,7 @@ color: white;
     background: black;
     color: white;
     }
+/* header home icon btn */
+.btn-default{
+    font-size: 5rem;
+}
