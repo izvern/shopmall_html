@@ -1,0 +1,27 @@
+.fa {
+    padding: .5rem;
+    font-size: 5rem;
+    width: 3rem;
+    text-align: center;
+    text-decoration: none;
+  }
+/* footer's facebook logo */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+/* footer's twitter logo */
+.fa-twitter {
+background: #55ACEE;
+color: white;
+}
+/* footer's instagram logo */
+.fa-instagram {
+    background: #d82b7d;
+    color: white;
+    }
+/* footer's github logo */
+.fa-github {
+    background: black;
+    color: white;
+    }
